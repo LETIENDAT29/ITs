@@ -1,0 +1,4 @@
+train: D:/python/model/yolov5/datasets/images/train  # Đảm bảo đây là thư mục chứa ảnh huấn luyện
+val: D:/python/model/yolov5/datasets/images/val      # Đảm bảo đây là thư mục chứa ảnh kiểm tra
+nc: 6  # Số lớp (các lớp cần phân loại)
+names: ['obstacle', 'vehicle', 'human', 'class3', 'class4', 'class5']  # Tên của các lớp
