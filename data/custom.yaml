@@ -1,0 +1,4 @@
+train: D:/python/model/yolov5/datasets/images/train
+val: D:/python/model/yolov5/datasets/images/val
+nc: 6
+names: ['obstacle', 'vehicle', 'human', 'class3', 'class4', 'class5']
